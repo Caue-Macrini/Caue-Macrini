@@ -1,8 +1,8 @@
 # Olá, eu sou o Cauê Gaspar Macrini 👋
 
-**Desenvolvedor Backend Python | APIs, Automação e Dados | Flask, PostgreSQL e React**
+**Desenvolvedor Backend Python | APIs, Automação, Dados e E-commerce | Flask, PostgreSQL, React e TypeScript**
 
-Estudante de Ciência da Computação com conclusão prevista para **dezembro de 2026** e experiência prática no desenvolvimento de soluções para automação, validação de dados e certificados digitais. Atuo principalmente com Python, Flask, PostgreSQL, Pandas, React e TypeScript.
+Estudante de Ciência da Computação com conclusão prevista para **dezembro de 2026** e experiência prática no desenvolvimento de APIs, automações, validação de dados, certificados digitais e e-commerces em produção. Atuo principalmente com Python, Flask, PostgreSQL, Pandas, React, TypeScript, Node.js e Express.
 
 ## Foco profissional
 
@@ -13,6 +13,8 @@ Estudante de Ciência da Computação com conclusão prevista para **dezembro de
 
 ## Projetos em destaque
 
+- [OhFlora](https://ohflora.com.br/) — e-commerce em produção com catálogo, carrinho, autenticação, checkout, painel administrativo e integrações de pagamento e frete.
+- [20Pras4](https://forestgreen-bee-957091.hostingersite.com/) — e-commerce em produção com Node.js, Express, SQLite, React, catálogo, busca, kits, autenticação e administração.
 - [Certificate Inspector Demo](https://github.com/Caue-Macrini/certificate-inspector-demo) — API Flask para leitura segura de certificados X.509, com testes, Docker e CI.
 - [CSV Rules Validator Demo](https://github.com/Caue-Macrini/csv-rules-validator-demo) — validação genérica de CSV orientada por regras JSON e relatório estruturado.
 - [CRL Sync Demo](https://github.com/Caue-Macrini/crl-sync-demo) — pipeline com failover, retry, parsing X.509 e sincronização idempotente.
@@ -24,7 +26,7 @@ Estudante de Ciência da Computação com conclusão prevista para **dezembro de
 ## Tecnologias
 
 **Backend e dados:** Python · Flask · SQL · PostgreSQL · Pandas · Streamlit  
-**Frontend:** React · TypeScript · JavaScript · HTML · CSS  
+**Frontend e produtos:** React · TypeScript · JavaScript · Node.js · Express · HTML · CSS · E-commerce  
 **Engenharia:** Git · testes automatizados · GitHub Actions · Docker  
 **Interesses:** sistemas distribuídos · cloud · segurança · engenharia de dados
 
